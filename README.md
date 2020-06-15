@@ -1,2 +1,2 @@
-# blahg 
-blahg is a blog
+# RubyBlog
+RubyBlog is a blogging application based on ruby on rails
